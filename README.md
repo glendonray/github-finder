@@ -1,2 +1,2 @@
 # github-finder
-User search for Github.
+User search for GitHub.
